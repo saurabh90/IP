@@ -12,8 +12,5 @@ public class Test {
     {
         System.out.println();
     }
-    public void test()
-    {
-        
-    }
+   
 }
