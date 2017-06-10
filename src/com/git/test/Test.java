@@ -15,7 +15,6 @@ public class Test {
     public void show2()
     {
         System.out.println();
-        System.out.println("tetetet");
     }
 
 }
