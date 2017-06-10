@@ -12,5 +12,10 @@ public class Test {
     {
         System.out.println();
     }
-   
+    public void show2()
+    {
+        System.out.println();
+        System.out.println("tetetet");
+    }
+
 }
