@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="386aae15-e5bc-47eb-8849-ab1c2d7ae2a4" name="Default" comment="Temp change1">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sss.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/git/test/Test.java" afterPath="$PROJECT_DIR$/src/com/git/test/Test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,14 +15,16 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/git/test/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            <state relative-caret-position="272">
+              <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
               <folding>
                 <element signature="e#134#135#0" expanded="true" />
                 <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -33,7 +35,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-              <folding />
+              <folding>
+                <element signature="e#235#236#0" expanded="false" />
+                <element signature="e#253#254#0" expanded="false" />
+                <element signature="e#286#287#0" expanded="false" />
+                <element signature="e#309#310#0" expanded="false" />
+                <element signature="e#334#335#0" expanded="false" />
+                <element signature="e#352#353#0" expanded="false" />
+                <element signature="e#386#387#0" expanded="false" />
+                <element signature="e#409#410#0" expanded="false" />
+                <element signature="e#434#435#0" expanded="false" />
+                <element signature="e#452#453#0" expanded="false" />
+                <element signature="e#486#487#0" expanded="false" />
+                <element signature="e#509#510#0" expanded="false" />
+                <element signature="e#535#536#0" expanded="false" />
+                <element signature="e#554#555#0" expanded="false" />
+                <element signature="e#590#591#0" expanded="false" />
+                <element signature="e#615#616#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sss.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sss.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sss.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state relative-caret-position="136">
+              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -82,9 +101,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/git/test/Test.java" />
         <option value="$PROJECT_DIR$/out/production/GIT TEST/com/git/test/Test.class" />
         <option value="$PROJECT_DIR$/src/Test21.java" />
+        <option value="$PROJECT_DIR$/src/com/git/test/Test.java" />
       </list>
     </option>
   </component>
@@ -642,7 +661,7 @@
       <option name="presentableId" value="Default" />
       <updated>1497032852633</updated>
       <workItem from="1497032859404" duration="1479000" />
-      <workItem from="1497072678740" duration="1729000" />
+      <workItem from="1497072678740" duration="2915000" />
     </task>
     <task id="LOCAL-00001" summary="Temp change1">
       <created>1497036115775</created>
@@ -655,10 +674,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3208000" />
+    <option name="totallyTimeSpent" value="4394000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -718,6 +737,8 @@
           <folding>
             <element signature="e#134#135#0" expanded="true" />
             <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -726,17 +747,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="977" column="30" lean-forward="false" selection-start-line="977" selection-start-column="30" selection-end-line="977" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/git/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -754,7 +764,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="e#235#236#0" expanded="false" />
+            <element signature="e#253#254#0" expanded="false" />
+            <element signature="e#286#287#0" expanded="false" />
+            <element signature="e#309#310#0" expanded="false" />
+            <element signature="e#334#335#0" expanded="false" />
+            <element signature="e#352#353#0" expanded="false" />
+            <element signature="e#386#387#0" expanded="false" />
+            <element signature="e#409#410#0" expanded="false" />
+            <element signature="e#434#435#0" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#486#487#0" expanded="false" />
+            <element signature="e#509#510#0" expanded="false" />
+            <element signature="e#535#536#0" expanded="false" />
+            <element signature="e#554#555#0" expanded="false" />
+            <element signature="e#590#591#0" expanded="false" />
+            <element signature="e#615#616#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -771,9 +798,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sss.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state relative-caret-position="136">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/git/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

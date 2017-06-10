@@ -8,4 +8,12 @@ public class Test {
     {
         System.out.println("test java");
     }
+    public void show()
+    {
+        System.out.println();
+    }
+    public void test()
+    {
+        
+    }
 }
