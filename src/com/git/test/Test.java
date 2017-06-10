@@ -8,7 +8,7 @@ public class Test {
     {
         System.out.println("test java");
     }
-    public void show(Double d1)
+    public void show(String s1,int i1,Double d1)
     {
         System.out.println();
     }
